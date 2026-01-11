@@ -26,7 +26,4 @@ GradeMate is an offline SGPA & CGPA calculator built using Flutter.
 - Home Dashboard
 - SGPA Calculator
 
-## 🚀 How to Run
-```bash
-flutter pub get
-flutter run
+
