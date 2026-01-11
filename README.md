@@ -1,16 +1,32 @@
-# grademate
+# GradeMate 🎓
 
-A new Flutter project.
+GradeMate is an offline SGPA & CGPA calculator built using Flutter.
 
-## Getting Started
+## ✨ Features
+- Calculate SGPA easily
+- Add up to 10 courses
+- Beautiful & simple UI
+- Offline – no internet required
+- Splash screen & custom app icon
 
-This project is a starting point for a Flutter application.
+## 🔮 Future Enhancements
+- Support for 10–20 universities
+- University-wise grading systems
+- Search university by name
+- CGPA calculator for entire degree
+- Theme customization
+- Export result as PDF
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screens
+- Splash Screen
+- Home Dashboard
+- SGPA Calculator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+```bash
+flutter pub get
+flutter run
